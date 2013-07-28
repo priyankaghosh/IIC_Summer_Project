@@ -94,7 +94,7 @@ section .container .wrapper{
 	}
 
 header{
-	background-color: orange; position: fixed; top: 0; left: 0; display: inline-block; width: 100%; z-index: 1;
+	background-color: orange; background-color: rgba(224, 95, 21, 0.8); position: fixed; top: 0; left: 0; display: inline-block; width: 100%; z-index: 1;
 	transition: all 800ms;
 }
 	header:hover{

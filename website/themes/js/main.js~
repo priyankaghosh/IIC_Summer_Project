@@ -43,7 +43,7 @@ $(document).ready(function() {
 	
 
 	// Sliding Background Images
-	$.vegas('slideshow', {
+/*	$.vegas('slideshow', {
         delay:7000,
         preload: false,
         backgrounds:[
@@ -57,7 +57,7 @@ $(document).ready(function() {
             {src : 'themes/images/food6.png', fade: 2000}
 
         ]
-    })('overlay'); 
+    })('overlay'); */
 
 
     // Apply Card scrolling effect on Portfolio
